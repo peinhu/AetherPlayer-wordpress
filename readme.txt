@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== AetherPlayer ===
 Contributors: Payne
 Donate link: http://2ndrenais.com/
 Tags: player, audio
