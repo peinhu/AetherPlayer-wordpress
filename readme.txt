@@ -17,10 +17,10 @@ It's intelligent, flexible and easy to use.
 Setting up AetherPlayer can be as simple as adding two lines of code to your homepage.   
 
 Features:  
-* autoloading : by referencing the bootstrap file of AetherPlayer to your HTML document, the rest dependent files will be loaded automatically
-* delayed load : no files will be included until the original page is completely loaded
-* custom configuration : you may change the position, playmode, debug parameters in configuration
-* preload : the images of albums will be loaded by order totally when the player initialize even if they are yet to be displayed
+* autoloading : by referencing the bootstrap file of AetherPlayer to your HTML document, the rest dependent files will be loaded automatically  
+* delayed load : no files will be included until the original page is completely loaded  
+* custom configuration : you may change the position, playmode, debug parameters in configuration  
+* preload : the images of albums will be loaded by order totally when the player initialize even if they are yet to be displayed  
 * non-jQuery : since the jQuery file is too overstaffed and may cause some compatibility issues, AetherPlayer use the native JavaScript to cancel the dependence on jQuery now
 
 == Installation ==
@@ -42,7 +42,17 @@ Absolutely.
 
 Of Course. If you have any question, please send an email to 'huyang110yahoo@gmail.com'.
 
+== Screenshots ==
+
+![aetherplayer](http://2ndrenais.com/aetherplayer.png)  
+1. The front-end interface of the player in your homepage.
+
 == Changelog ==
+
+= 1.0 =
+* Initial release
+
+== Upgrade Notice ==
 
 = 1.0 =
 * Initial release
