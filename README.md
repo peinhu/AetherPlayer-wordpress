@@ -1,5 +1,5 @@
 [【中文说明】](https://github.com/peinhu/AetherPlayer-wordpress/wiki)
-# AetherPlayer
+# AetherPlayer-wordpress
 The WordPress plugin version for [AetherPlayer project](https://github.com/peinhu/AetherPlayer).  
 **AetherPlayer** is a CD-like simple HTML5 audio player which is very suitable for blogs and personal websites.  
   
