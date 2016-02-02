@@ -6,9 +6,13 @@ The WordPress plugin version for [AetherPlayer project](https://github.com/peinh
 ![aetherplayer](http://2ndrenais.com/aetherplayer.png)   
 
 #Usage
-1. Upload whole project folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Edit the playlist through the 'AetherPlayer' submenu under 'Settings' menu
+**Auto:**  
+Search 'AetherPlayer' through the 'Plugins' menu and install
+
+**Manual:**  
+1. Upload whole project folder to the `/wp-content/plugins/` directory  
+2. Activate the plugin through the 'Plugins' menu in WordPress  
+3. Edit the playlist through the 'AetherPlayer' submenu under 'Settings' menu  
 4. Open the homepage of your blog and enjoy the music  
 
 Tip:You may change some default configurations in `js/AetherPlayer.js` if you will.
