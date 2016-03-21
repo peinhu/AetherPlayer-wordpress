@@ -3,7 +3,7 @@
 The WordPress plugin version for [AetherPlayer project](https://github.com/peinhu/AetherPlayer). [https://wordpress.org/plugins/aetherplayer](https://wordpress.org/plugins/aetherplayer)    
 **AetherPlayer** is a CD-like simple HTML5 audio player which is very suitable for blogs and personal websites.  
   
-![aetherplayer](http://2ndrenais.com/aetherplayer.png)   
+![aetherplayer](http://www.2ndrenais.com/aetherplayer1.png)   
 
 #Usage
 **Auto:**  
